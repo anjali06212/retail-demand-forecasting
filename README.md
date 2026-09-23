@@ -37,13 +37,16 @@ Business Insights & Interview Preparation
 
 1. 🏢 Business Problem
 In retail supply chains, stockouts can lead to lost revenue and customer dissatisfaction, while excess inventory can tie up working capital. Balancing service levels and inventory buffers requires translating historical point-of-sale data into actionable demand forecasts, SKU-level prioritization, and calculated reorder triggers.
+
 2. 🎯 Why Demand Planning?
 Demand planning connects sales data with procurement decisions. Rather than relying on static ordering rules or opaque black-box machine learning, supply chain planners can use structured demand segmentation such as ABC-XYZ analysis and explainable time-series baselines to establish defensible safety stock levels and reorder points.
+
 3. 📂 Dataset
 This project uses the Walmart M5 Forecasting benchmark dataset:
 - calendar.csv: Contains calendar dates, day of week, month, year, event/holiday names, and state SNAP assistance flags.
 - sales_train_validation.csv: Contains historical daily unit sales quantities across products and stores (d_1 to d_1913).
 - sell_prices.csv: Contains weekly store-item selling prices (wm_yr_wk, sell_price).
+
 4. 🔍 Project Scope
 To maintain complete analytical depth while keeping data processing fast and transparent across Python, SQLite, and Excel:
 - Store: CA_1
@@ -51,10 +54,12 @@ To maintain complete analytical depth while keeping data processing fast and tra
 - Products: 216 unique SKUs
 - Historical Horizon: 1,913 consecutive days (January 29, 2011 to April 24, 2016 / ~5.2 years)
 - Total Observation Grid: 413,208 SKU-day records (216 × 1,913, with zero missing SKU-date combinations)
+
 5. 🛠️ Tools & Technologies
 - Python (3.11): pandas for data wrangling, numpy for mathematical calculations, statsmodels for time-series modeling, openpyxl for Excel workbook generation, matplotlib for charts.
 - SQL (SQLite): Dimensional star schema design, table DDL, aggregations, window functions (AVG() OVER), LAG(), CTEs.
 - Microsoft Excel: Multi-tab analytical planning workbook, formatted KPI cards, conditional formatting, and dynamic live formulas (ROUND, SQRT).
+
 6. 🧹 Data Preparation & Cleaning
 Implemented in src/01_data_preparation.py.
 - Filtered raw data for Store CA_1 and Department FOODS_1.
@@ -62,6 +67,7 @@ Implemented in src/01_data_preparation.py.
 - Merged with calendar.csv on day index d to attach day name, month, year, event flags, and SNAP indicators.
 - Merged with sell_prices.csv on (store_id, item_id, wm_yr_wk) to calculate revenue = units_sold * sell_price.
 - Saved output to data_processed/clean_retail_demand.csv.
+
 7. 🗄️ SQL Star Schema & Demand Analytics
 Database:
 database/retail_demand.db
@@ -81,12 +87,14 @@ Implemented in sql/demand_queries.sql:
 7. Day-over-Day Demand Acceleration: Measuring daily velocity using LAG().
 8. Intermittent Demand Analysis: Zero-demand day percentage per SKU.
 9. Pure SQL ABC Classification: Cumulative revenue contribution via CTEs and window sums.
+
 8. 📊 Exploratory Data Analysis
 Implemented in src/03_eda_analysis.py.
 Key findings visualized in outputs/charts/:
 - Weekend Peak: Demand spikes significantly on Saturday (average 381.2 units/day) and Sunday (330.8 units/day) compared to Monday–Friday (261.3 units/day).
 - Intermittent Demand: 59.29% of daily SKU-level records have zero units sold, illustrating the high intermittency observed in the selected dataset scope.
 - Annual Seasonality: Demand shows consistent mid-year peaks and end-of-year holiday shifts.
+
 9. 📦 ABC-XYZ Demand Segmentation
 Implemented in src/04_abc_xyz_analysis.py.
 All 216 SKUs were categorized across two complementary dimensions.
@@ -108,6 +116,7 @@ The ABC-XYZ matrix is used to organize SKUs according to revenue contribution an
 - BZ: Moderate value, highly variable demand → standard review and buffering approach.
 - CZ: Lower value, highly variable demand → lower-priority review based on business requirements.
 The ABC and XYZ thresholds are project-defined analytical rules and are not intended to represent universal retail standards.
+
 10. 📈 Explainable Demand Forecasting
 Implemented in src/05_forecasting.py.
 Setup & Methodology
@@ -119,6 +128,7 @@ Evaluated Models
 2. 7-Day Simple Moving Average (SMA): Constant forecast equal to the average of the last 7 training days.
 3. 28-Day Simple Moving Average (SMA): Constant forecast equal to the average of the last 28 training days.
 4. Holt-Winters Exponential Smoothing: Statistical model with additive trend and weekly 7-day seasonality.
+
 11. 🎯 Forecast Evaluation Metrics & Results
 Evaluated across all 216 SKUs × 28 test days:
 N = 6,048 observations
@@ -142,6 +152,7 @@ Holt-Winters Exponential Smoothing	1.742	3.654	131.41%	+68.16%	Trend extrapolati
 
 The 28-day SMA was the best-performing method on the selected 28-day holdout based on the reported evaluation metrics. However, its WAPE of 88.81% is still high, so the result should be interpreted as a model comparison rather than evidence of highly accurate forecasting.
 The 28-day SMA provided a smoother baseline than the shorter-window methods for the selected intermittent demand data.
+
 12. 🛡️ Basic Inventory Planning
 Implemented in src/06_inventory_planning.py.
 The project uses simple, explainable supply chain formulas calculated at the individual SKU level.
@@ -169,6 +180,8 @@ Class C	0.36 units/day	2.55 units	2.92 units	5.47 units
 
 
 These values are planning calculations based on the stated assumptions, not optimized inventory targets.
+
+
 13. 📑 Excel Demand Planning Workbook
 File:
 outputs/Retail_Demand_Forecasting_Inventory_Plan.xlsx
@@ -191,18 +204,21 @@ Reorder Point:
 1. Weekend Concentration: Saturday and Sunday demand is approximately 46% higher than weekday averages. This suggests that weekly replenishment planning should account for day-of-week demand patterns.
 2. High Intermittency: 59.29% of SKU-day observations had zero demand. The 28-day moving average provided the best-performing baseline among the evaluated forecasting methods on the selected holdout period.
 3. Revenue Skew: 109 Class A items account for 79.7% of total revenue in the selected scope. This provides a basis for prioritizing higher-value SKUs when applying the project's assumed service-level framework.
+
 15. 📋 Explicit Assumptions
 - Supplier Lead Time is assumed to be 7 calendar days.
 - Target Service Levels are assumed to be 95% for Class A and 90% for Class B and C.
 - Normal distribution of lead-time demand is assumed for the standard safety stock formula calculations.
 - Fixed purchase order costs and warehouse holding costs are not provided in the dataset; therefore, cost-based optimization models such as EOQ are omitted.
 - ABC and XYZ thresholds are project-defined analytical rules rather than universal industry standards.
+
 16. ⚠️ Limitations
 - POS Sales vs. Inventory Availability: The dataset contains transaction records, not on-hand inventory or shelf availability data. Therefore, zero-demand days are treated as intermittent demand observations and not confirmed stockouts.
 - Intermittent Forecasting Errors: Daily SKU-level demand contains 59.3% zero-demand observations, making forecasting challenging and contributing to the high WAPE observed in the holdout period.
 - Forecast Scope: Forecast evaluation is based on a single 28-day holdout period and the selected 216-SKU scope.
 - Focused Scope: Results represent Store CA_1 and Department FOODS_1 from the historical M5 benchmark dataset.
 - Inventory Planning Assumptions: Lead time and service levels are assumed because actual supplier lead-time, inventory-position, ordering-cost, and holding-cost information is not available in the dataset.
+
 17. 🚀 How to Run the Pipeline
 1. Prepare and clean raw data
 python src/01_data_preparation.py
@@ -224,6 +240,7 @@ python src/06_inventory_planning.py
 
 7. Generate Excel workbook
 python src/07_generate_excel_workbook.py
+
 
 18. 📁 Project Structure
 retail-demand-forecasting/
