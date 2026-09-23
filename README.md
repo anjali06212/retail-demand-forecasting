@@ -10,7 +10,7 @@ An end-to-end, interview-defensible data analytics and demand planning portfolio
 
 ## 📌 Project Architecture
 
-```text
+
 Raw Walmart M5 Data (calendar.csv, sales_train_validation.csv, sell_prices.csv)
         ↓
 Python Data Preparation (Wide-to-Long Melting, Calendar & Pricing Merges)
@@ -33,7 +33,7 @@ Basic Inventory Planning (Lead-Time Demand, Safety Stock, Reorder Point)
         ↓
 Excel Demand Planning Workbook (Multi-Tab Model with Live Formulas)
         ↓
-Business Insights & Interview Preparation
+Business Insights 
 
 1. 🏢 Business Problem
 In retail supply chains, stockouts can lead to lost revenue and customer dissatisfaction, while excess inventory can tie up working capital. Balancing service levels and inventory buffers requires translating historical point-of-sale data into actionable demand forecasts, SKU-level prioritization, and calculated reorder triggers.
@@ -283,7 +283,6 @@ retail-demand-forecasting/
 │   └── inventory_planning_table.csv
 │
 ├── README.md
-├── INTERVIEW_PREP.md
 ├── requirements.txt
 └── .gitignore
 
