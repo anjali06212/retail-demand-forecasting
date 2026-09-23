@@ -1,0 +1,217 @@
+item_id,total_units,total_revenue,avg_daily_demand,std_daily_demand,avg_price,total_days,zero_days,zero_demand_pct,cumulative_revenue,cumulative_rev_pct,abc_class,cv_demand,xyz_class,abc_xyz_segment,replenishment_strategy
+FOODS_1_004,15797,28995.06,8.2577,8.8662,1.85,1913,616,32.2,28995.06,2.22,A,1.0737,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_012,5212,27982.26,2.7245,2.7835,5.5,1913,641,33.51,56977.32,4.37,A,1.0217,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_170,4806,25793.58,2.5123,3.5448,5.5,1913,1070,55.93,82770.9,6.35,A,1.411,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_043,12617,23065.74,6.5954,6.5966,1.85,1913,504,26.35,105836.64,8.12,A,1.0002,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_218,22387,21947.46,11.7026,9.3254,0.98,1913,103,5.38,127784.1,9.8,A,0.7969,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_055,5343,20465.2,2.793,4.6256,3.9,1913,653,34.13,148249.30000000002,11.37,A,1.6561,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_085,20358,19984.46,10.6419,6.9478,0.98,1913,36,1.88,168233.76,12.91,A,0.6529,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_187,2109,19255.15,1.1025,1.4438,9.17,1913,897,46.89,187488.91,14.38,A,1.3096,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_180,1985,19092.65,1.0376,1.9768,9.59,1913,1005,52.54,206581.56,15.85,A,1.9052,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_194,3968,18370.65,2.0742,2.1945,4.7,1913,515,26.92,224952.21,17.26,A,1.058,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_018,18568,18209.48,9.7062,6.544,0.98,1913,53,2.77,243161.69,18.66,A,0.6742,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_087,3282,17787.78,1.7156,2.2437,5.5,1913,868,45.37,260949.47,20.02,A,1.3078,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_086,10583,17785.57,5.5321,4.4389,1.68,1913,412,21.54,278735.04,21.38,A,0.8024,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_110,9080,16687.88,4.7465,5.2992,1.85,1913,544,28.44,295422.92,22.67,A,1.1164,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_161,16808,16475.36,8.7862,6.9433,0.98,1913,121,6.33,311898.27999999997,23.93,A,0.7903,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_183,4996,14771.98,2.6116,2.4738,2.95,1913,523,27.34,326670.25999999995,25.06,A,0.9472,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_032,14751,14495.74,7.7109,8.7501,0.98,1913,493,25.77,341165.99999999994,26.17,A,1.1348,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_177,1650,14237.07,0.8625,1.1614,8.61,1913,951,49.71,355403.06999999995,27.27,A,1.3466,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_152,1786,14228.23,0.9336,1.2536,8.07,1913,935,48.88,369631.29999999993,28.36,A,1.3428,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_088,2949,14056.52,1.5416,2.1051,4.86,1913,783,40.93,383687.81999999995,29.44,A,1.3655,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_217,4024,13531.78,2.1035,2.8982,3.33,1913,852,44.54,397219.6,30.47,A,1.3778,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_046,13640,13374.12,7.1302,5.7704,0.98,1913,131,6.85,410593.72,31.5,A,0.8093,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_173,6716,13316.5,3.5107,4.5488,1.98,1913,736,38.47,423910.22,32.52,A,1.2957,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_023,2501,13314.25,1.3074,2.0691,5.5,1913,1131,59.12,437224.47,33.54,A,1.5826,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_099,13024,12763.52,6.8082,8.0347,0.98,1913,800,41.82,449987.99,34.52,A,1.1802,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_162,6763,12495.88,3.5353,4.7288,1.86,1913,760,39.73,462483.87,35.48,A,1.3376,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_104,3392,11446.54,1.7731,2.4163,3.33,1913,775,40.51,473930.41,36.36,A,1.3628,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_178,1228,11355.33,0.6419,0.9101,9.26,1913,1083,56.61,485285.74,37.23,A,1.4178,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_144,1598,11131.54,0.8353,1.0822,6.96,1913,949,49.61,496417.27999999997,38.09,A,1.2956,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_150,2321,11120.66,1.2133,1.6401,4.86,1913,852,44.54,507537.93999999994,38.94,A,1.3518,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_080,1482,11056.66,0.7747,1.1683,7.47,1913,1104,57.71,518594.5999999999,39.79,A,1.5081,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_206,5366,10651.79,2.805,3.4095,1.99,1913,523,27.34,529246.3899999999,40.6,A,1.2155,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_044,3865,10569.36,2.0204,3.0548,2.81,1913,944,49.35,539815.7499999999,41.42,A,1.512,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_024,2266,10502.2,1.1845,1.469,4.7,1913,789,41.24,550317.9499999998,42.22,A,1.2402,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_103,2705,10452.62,1.414,1.9761,3.95,1913,843,44.07,560770.5699999998,43.02,A,1.3975,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_067,5249,10397.53,2.7439,3.5434,1.98,1913,712,37.22,571168.0999999999,43.82,A,1.2914,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_058,5625,10289.38,2.9404,3.6493,1.85,1913,698,36.49,581457.4799999999,44.61,A,1.2411,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_219,4715,10069.15,2.4647,2.8297,2.16,1913,769,40.2,591526.6299999999,45.38,A,1.1481,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_197,2129,10027.22,1.1129,1.3606,4.86,1913,845,44.17,601553.8499999999,46.15,A,1.2226,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_137,4833,9566.58,2.5264,3.6509,1.98,1913,911,47.62,611120.4299999998,46.89,A,1.4451,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_038,1034,9381.74,0.5405,0.9024,9.18,1913,1233,64.45,620502.1699999998,47.61,A,1.6696,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_045,5097,9377.62,2.6644,2.7249,1.84,1913,559,29.22,629879.7899999998,48.32,A,1.0227,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_081,1669,9003.31,0.8725,1.6227,5.5,1913,1257,65.71,638883.0999999999,49.02,A,1.8598,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_174,1865,8927.84,0.9749,1.2845,4.86,1913,915,47.83,647810.9399999998,49.7,A,1.3176,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_166,4166,8908.09,2.1777,2.5025,2.16,1913,746,39.0,656719.0299999998,50.38,A,1.1491,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_112,4435,8781.3,2.3183,2.469,1.98,1913,548,28.65,665500.3299999998,51.06,A,1.065,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_140,1263,8761.14,0.6602,1.0483,6.93,1913,1158,60.53,674261.4699999999,51.73,A,1.5879,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_172,4452,8437.1,2.3272,2.0919,1.88,1913,388,20.28,682698.5699999998,52.38,A,0.8989,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_207,2534,8342.48,1.3246,1.5476,3.29,1913,710,37.11,691041.0499999998,53.02,A,1.1684,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_201,3919,8311.19,2.0486,2.4721,2.16,1913,726,37.95,699352.2399999998,53.65,A,1.2067,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_106,2507,8235.22,1.3105,1.5439,3.31,1913,743,38.84,707587.4599999997,54.29,A,1.1781,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_076,1504,8213.74,0.7862,1.0165,5.5,1913,955,49.92,715801.1999999997,54.92,A,1.2929,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_002,914,8062.12,0.4778,0.8038,8.92,1913,1278,66.81,723863.3199999997,55.54,A,1.6823,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_019,7752,7997.8,4.0523,5.2549,1.05,1913,905,47.31,731861.1199999998,56.15,A,1.2968,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_040,4242,7782.69,2.2175,2.3924,1.84,1913,577,30.16,739643.8099999997,56.75,A,1.0789,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_064,2906,7601.6,1.5191,1.6031,2.62,1913,610,31.89,747245.4099999997,57.33,A,1.0553,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_153,3973,7516.14,2.0768,2.0161,1.88,1913,476,24.88,754761.5499999997,57.91,A,0.9708,Y,AY,Seasonal Forecasting | Medium Safety Stock Buffer | Weekly Demand Review
+FOODS_1_167,1607,7408.45,0.84,1.1519,4.7,1913,984,51.44,762169.9999999997,58.47,A,1.3713,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_005,2224,7393.36,1.1626,2.0157,3.33,1913,1030,53.84,769563.3599999996,59.04,A,1.7338,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_216,1485,7343.18,0.7763,1.3006,4.95,1913,1037,54.21,776906.5399999997,59.6,A,1.6754,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_021,7287,7141.26,3.8092,6.5088,0.98,1913,935,48.88,784047.7999999997,60.15,A,1.7087,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_154,4695,6922.1,2.4543,3.5415,1.47,1913,819,42.81,790969.8999999997,60.68,A,1.443,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_031,2049,6921.7,1.0711,1.7342,3.37,1913,977,51.07,797891.5999999996,61.21,A,1.6191,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_026,977,6794.46,0.5107,0.8928,6.95,1913,1275,66.65,804686.0599999996,61.74,A,1.7482,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_061,3147,6788.4,1.6451,1.8817,2.17,1913,711,37.17,811474.4599999996,62.26,A,1.1438,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_074,2942,6578.86,1.5379,2.0049,2.23,1913,904,47.26,818053.3199999996,62.76,A,1.3037,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_036,3750,6546.34,1.9603,2.228,1.76,1913,716,37.43,824599.6599999996,63.26,A,1.1366,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_054,3458,6518.54,1.8076,1.8369,1.88,1913,519,27.13,831118.1999999996,63.76,A,1.0162,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_037,2044,6485.91,1.0685,1.985,3.22,1913,1103,57.66,837604.1099999996,64.26,A,1.8577,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_047,1936,6422.44,1.012,1.4552,3.34,1913,968,50.6,844026.5499999996,64.75,A,1.4379,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_006,2874,6306.99,1.5024,1.8692,2.21,1913,761,39.78,850333.5399999996,65.24,A,1.2441,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_120,3246,5906.84,1.6968,2.1809,1.85,1913,773,40.41,856240.3799999995,65.69,A,1.2853,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_050,986,5896.28,0.5154,0.9958,5.98,1913,1345,70.31,862136.6599999996,66.14,A,1.9321,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_075,1755,5847.28,0.9174,1.5109,3.33,1913,1104,57.71,867983.9399999996,66.59,A,1.6469,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_130,3269,5771.16,1.7088,1.8496,1.75,1913,656,34.29,873755.0999999996,67.04,A,1.0824,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_127,2887,5704.82,1.5091,1.8301,1.99,1913,752,39.31,879459.9199999996,67.47,A,1.2127,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_114,1683,5628.76,0.8798,1.2844,3.33,1913,1057,55.25,885088.6799999996,67.9,A,1.4599,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_090,1683,5602.06,0.8798,1.7441,3.33,1913,1175,61.42,890690.7399999996,68.33,A,1.9824,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_200,5645,5532.1,2.9509,5.6803,0.98,1913,1236,64.61,896222.8399999996,68.76,A,1.9249,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_083,2785,5520.77,1.4558,2.0045,1.98,1913,880,46.0,901743.6099999996,69.18,A,1.3769,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_136,1181,5445.41,0.6174,1.1278,4.7,1913,1213,63.41,907189.0199999997,69.6,A,1.8267,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_020,2028,5400.48,1.0601,1.2484,2.65,1913,846,44.22,912589.4999999997,70.01,A,1.1776,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_027,2958,5393.04,1.5463,2.997,1.86,1913,1198,62.62,917982.5399999997,70.43,A,1.9382,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_123,1622,5385.12,0.8479,1.5656,3.33,1913,1147,59.96,923367.6599999997,70.84,A,1.8464,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_113,5447,5338.06,2.8474,4.5943,0.98,1913,968,50.6,928705.7199999997,71.25,A,1.6135,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_094,1561,5160.52,0.816,1.2769,3.31,1913,1010,52.8,933866.2399999998,71.65,A,1.5648,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_128,1343,5140.76,0.702,1.2438,3.94,1913,1162,60.74,939006.9999999998,72.04,A,1.7718,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_133,1643,4903.88,0.8589,1.8355,3.18,1913,1258,65.76,943910.8799999998,72.42,A,2.137,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_181,3691,4877.38,1.9294,2.5451,1.32,1913,852,44.54,948788.2599999998,72.79,A,1.3191,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_186,814,4867.72,0.4255,0.7741,5.98,1913,1339,69.99,953655.9799999997,73.17,A,1.8193,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_016,2381,4855.72,1.2446,1.608,2.07,1913,798,41.71,958511.6999999997,73.54,A,1.292,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_208,2641,4845.88,1.3806,1.8648,1.85,1913,830,43.39,963357.5799999997,73.91,A,1.3507,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_115,1352,4840.16,0.7067,1.4515,3.58,1913,1355,70.83,968197.7399999998,74.28,A,2.0539,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_003,1592,4707.11,0.8322,1.1632,2.97,1913,1011,52.85,972904.8499999997,74.64,A,1.3977,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_129,788,4642.48,0.4119,0.8671,5.98,1913,1416,74.02,977547.3299999997,75.0,A,2.1051,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_196,2317,4588.01,1.2112,1.7142,1.98,1913,909,47.52,982135.3399999997,75.35,A,1.4153,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_214,1524,4505.86,0.7967,1.0697,2.95,1913,991,51.8,986641.1999999997,75.7,A,1.3427,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_185,2057,4465.28,1.0753,1.4251,2.17,1913,906,47.36,991106.4799999997,76.04,A,1.3253,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_199,830,4446.21,0.4339,0.9942,5.49,1913,1498,78.31,995552.6899999997,76.38,A,2.2913,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_073,2245,4433.44,1.1735,1.4601,1.98,1913,834,43.6,999986.1299999997,76.72,A,1.2442,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_184,4421,4421.0,2.311,3.2209,1.0,1913,654,34.19,1004407.1299999997,77.06,A,1.3937,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_062,1105,4389.2,0.5776,0.9986,4.0,1913,1239,64.77,1008796.3299999996,77.4,A,1.7289,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_175,1468,4364.24,0.7674,1.2139,2.97,1913,1133,59.23,1013160.5699999996,77.73,A,1.5818,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_141,1302,4333.68,0.6806,1.043,3.32,1913,1148,60.01,1017494.2499999997,78.06,A,1.5325,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_205,885,4330.44,0.4626,0.8401,4.96,1913,1328,69.42,1021824.6899999996,78.4,A,1.816,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_195,1921,4295.06,1.0042,1.4593,2.23,1913,1034,54.05,1026119.7499999997,78.72,A,1.4532,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_108,1716,4290.0,0.897,1.3685,2.5,1913,1010,52.8,1030409.7499999997,79.05,A,1.5256,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_082,4362,4274.76,2.2802,4.0794,0.98,1913,1196,62.52,1034684.5099999997,79.38,A,1.7891,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_065,1250,4158.18,0.6534,1.1193,3.3,1913,1213,63.41,1038842.6899999997,79.7,A,1.713,Z,AZ,Dedicated Planner Review | Dynamic Safety Stock | Close Supplier Lead Time Tracking
+FOODS_1_049,1885,4153.6,0.9854,1.7401,2.24,1913,1113,58.18,1042996.2899999997,80.02,B,1.7659,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_151,361,4125.44,0.1887,0.5377,11.4,1913,1643,85.89,1047121.7299999996,80.34,B,2.8495,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_117,1923,4124.4,1.0052,1.4395,2.17,1913,1023,53.48,1051246.1299999997,80.65,B,1.4321,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_053,732,4079.36,0.3826,0.8214,5.55,1913,1431,74.8,1055325.4899999998,80.97,B,2.1469,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_015,1302,4043.86,0.6806,1.4824,3.2,1913,1263,66.02,1059369.3499999999,81.28,B,2.1781,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_041,1795,4014.98,0.9383,1.3585,2.23,1913,1065,55.67,1063384.3299999998,81.58,B,1.4478,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_192,1707,4007.96,0.8923,1.2638,2.35,1913,1042,54.47,1067392.2899999998,81.89,B,1.4163,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_158,822,3844.14,0.4297,0.769,4.68,1913,1342,70.15,1071236.4299999997,82.19,B,1.7896,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_051,987,3819.69,0.5159,1.0962,3.87,1913,1425,74.49,1075056.1199999996,82.48,B,2.1248,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_124,1788,3818.88,0.9347,1.5268,2.17,1913,1083,56.61,1078874.9999999995,82.77,B,1.6335,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_210,2070,3793.92,1.0821,1.8947,1.87,1913,1134,59.28,1082668.9199999995,83.06,B,1.7509,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_013,2547,3734.39,1.3314,2.0391,1.47,1913,995,52.01,1086403.3099999994,83.35,B,1.5315,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_069,1491,3726.88,0.7794,1.5803,2.51,1913,1258,65.76,1090130.1899999992,83.64,B,2.0276,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_105,1959,3709.22,1.024,1.6464,1.92,1913,1132,59.17,1093839.4099999992,83.92,B,1.6078,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_042,3747,3672.06,1.9587,3.4281,0.98,1913,1052,54.99,1097511.4699999993,84.2,B,1.7502,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_215,2106,3670.56,1.1009,1.9237,1.75,1913,1161,60.69,1101182.0299999993,84.48,B,1.7474,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_072,759,3647.32,0.3968,0.8384,4.87,1913,1424,74.44,1104829.3499999994,84.76,B,2.1129,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_063,1662,3644.61,0.8688,1.1481,2.21,1913,958,50.08,1108473.9599999995,85.04,B,1.3215,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_139,3693,3619.14,1.9305,2.6414,0.98,1913,961,50.24,1112093.0999999994,85.32,B,1.3682,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_204,3678,3605.34,1.9226,2.9441,0.98,1913,869,45.43,1115698.4399999995,85.6,B,1.5313,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_163,3643,3570.14,1.9043,4.4535,0.98,1913,1357,70.94,1119268.5799999994,85.87,B,2.3387,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_025,860,3511.49,0.4496,0.9014,4.1,1913,1378,72.03,1122780.0699999994,86.14,B,2.0049,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_035,1375,3502.9,0.7188,1.5997,2.52,1913,1285,67.17,1126282.9699999993,86.41,B,2.2255,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_146,1555,3478.58,0.8129,1.2164,2.23,1913,1085,56.72,1129761.5499999993,86.68,B,1.4964,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_096,590,3469.64,0.3084,0.6517,5.91,1913,1470,76.84,1133231.1899999992,86.94,B,2.1132,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_066,2533,3438.97,1.3241,1.8657,1.36,1913,851,44.49,1136670.1599999992,87.21,B,1.409,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_048,574,3432.52,0.3001,0.7173,5.98,1913,1524,79.67,1140102.6799999992,87.47,B,2.3902,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_092,1845,3376.8,0.9645,1.6206,1.86,1913,1136,59.38,1143479.4799999993,87.73,B,1.6802,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_188,1123,3346.54,0.587,1.2761,2.98,1913,1422,74.33,1146826.0199999993,87.99,B,2.1739,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_213,1415,3283.14,0.7397,1.1649,2.32,1913,1104,57.71,1150109.1599999992,88.24,B,1.5748,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_028,1163,3262.94,0.6079,1.6277,2.86,1913,1539,80.45,1153372.0999999992,88.49,B,2.6776,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_091,1396,3243.42,0.7297,1.1249,2.34,1913,1138,59.49,1156615.519999999,88.74,B,1.5416,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_001,1503,3228.48,0.7857,1.2581,2.17,1913,1078,56.35,1159843.999999999,88.98,B,1.6012,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_034,587,3221.56,0.3068,0.6488,5.52,1913,1476,77.16,1163065.5599999991,89.23,B,2.1147,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_030,1021,3175.28,0.5337,1.1338,3.18,1913,1369,71.56,1166240.8399999992,89.47,B,2.1244,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_033,578,3159.13,0.3021,0.8161,5.38,1913,1575,82.33,1169399.969999999,89.72,B,2.7014,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_193,650,3103.13,0.3398,1.0383,4.7,1913,1621,84.74,1172503.099999999,89.96,B,3.0556,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_203,1391,3029.44,0.7271,1.51,2.17,1913,1315,68.74,1175532.5399999989,90.19,B,2.0767,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_138,1212,3019.76,0.6336,1.4205,2.51,1913,1387,72.5,1178552.2999999989,90.42,B,2.242,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_011,1178,3000.54,0.6158,1.2236,2.52,1913,1345,70.31,1181552.839999999,90.65,B,1.987,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_209,1273,2979.76,0.6654,1.0114,2.35,1913,1137,59.44,1184532.599999999,90.88,B,1.52,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_176,968,2976.38,0.506,1.2384,3.23,1913,1407,73.55,1187508.9799999988,91.11,B,2.4474,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_168,1372,2953.98,0.7172,1.1782,2.16,1913,1167,61.0,1190462.9599999988,91.33,B,1.6428,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_068,804,2878.32,0.4203,1.033,3.58,1913,1507,78.78,1193341.2799999989,91.55,B,2.4578,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_119,838,2823.0,0.4381,0.9202,3.33,1913,1393,72.82,1196164.2799999989,91.77,B,2.1004,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_182,1392,2790.81,0.7277,1.2637,2.01,1913,1220,63.77,1198955.089999999,91.98,B,1.7366,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_147,596,2762.4,0.3116,0.7226,4.74,1913,1520,79.46,1201717.4899999988,92.2,B,2.319,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_132,1492,2737.3,0.7799,1.5759,1.86,1913,1233,64.45,1204454.7899999989,92.41,B,2.0206,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_143,1367,2703.64,0.7146,1.4168,1.98,1913,1291,67.49,1207158.4299999988,92.61,B,1.9826,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_125,522,2678.76,0.2729,0.7458,5.17,1913,1601,83.69,1209837.1899999988,92.82,B,2.7329,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_039,1048,2599.04,0.5478,1.0934,2.48,1913,1304,68.17,1212436.2299999988,93.02,B,1.996,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_169,785,2485.88,0.4104,1.0869,3.29,1913,1505,78.67,1214922.1099999987,93.21,B,2.6484,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_071,1238,2458.12,0.6472,1.2931,1.98,1913,1343,70.2,1217380.2299999988,93.4,B,1.998,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_198,947,2425.76,0.495,1.1662,2.52,1913,1422,74.33,1219805.9899999988,93.58,B,2.356,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_102,1336,2348.12,0.6984,1.1027,1.76,1913,1138,59.49,1222154.109999999,93.76,B,1.5789,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_171,489,2317.06,0.2556,0.8514,4.7,1913,1663,86.93,1224471.169999999,93.94,B,3.331,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_142,1574,2307.79,0.8228,1.4081,1.47,1913,1126,58.86,1226778.959999999,94.12,B,1.7114,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_116,913,2306.44,0.4773,1.1221,2.51,1913,1445,75.54,1229085.399999999,94.3,B,2.3509,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_059,486,2303.94,0.2541,0.7891,4.71,1913,1655,86.51,1231389.339999999,94.47,B,3.1055,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_156,977,2280.78,0.5107,0.9391,2.37,1913,1325,69.26,1233670.119999999,94.65,B,1.8388,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_134,1123,2223.54,0.587,1.1962,1.98,1913,1385,72.4,1235893.659999999,94.82,B,2.0378,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_190,2236,2191.28,1.1688,2.1908,0.98,1913,1146,59.91,1238084.939999999,94.99,B,1.8744,Z,BZ,Responsive Reorder | Buffer against Demand Spikes | Strict Minimum Order Quantity
+FOODS_1_155,2199,2155.02,1.1495,1.8965,0.98,1913,1175,61.42,1240239.959999999,95.15,C,1.6498,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_009,888,2127.24,0.4642,1.047,2.4,1913,1428,74.65,1242367.199999999,95.32,C,2.2555,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_101,1051,2085.08,0.5494,1.0618,1.98,1913,1318,68.9,1244452.279999999,95.48,C,1.9327,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_109,931,2072.24,0.4867,0.9745,2.23,1913,1386,72.45,1246524.519999999,95.63,C,2.0023,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_212,336,2033.42,0.1756,0.4889,6.13,1913,1650,86.25,1248557.939999999,95.79,C,2.7842,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_145,2036,1995.28,1.0643,1.6845,0.98,1913,1120,58.55,1250553.219999999,95.94,C,1.5827,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_093,372,1985.68,0.1945,0.6237,5.5,1913,1677,87.66,1252538.899999999,96.1,C,3.2067,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_097,2020,1979.6,1.0559,1.6829,0.98,1913,1146,59.91,1254518.499999999,96.25,C,1.5938,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_017,845,1950.14,0.4417,1.1552,2.36,1913,1432,74.86,1256468.639999999,96.4,C,2.6153,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_135,781,1946.38,0.4083,0.98,2.51,1913,1457,76.16,1258415.0199999989,96.55,C,2.4002,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_202,1931,1892.38,1.0094,1.8221,0.98,1913,1214,63.46,1260307.3999999987,96.69,C,1.8051,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_111,316,1889.68,0.1652,0.5123,5.98,1913,1684,88.03,1262197.0799999987,96.84,C,3.1011,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_191,351,1873.68,0.1835,0.5317,5.5,1913,1654,86.46,1264070.7599999986,96.98,C,2.8975,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_107,330,1804.65,0.1725,0.6192,5.45,1913,1713,89.55,1265875.4099999985,97.12,C,3.5896,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_078,538,1803.76,0.2812,0.7587,3.34,1913,1589,83.06,1267679.1699999985,97.26,C,2.6981,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_010,318,1708.51,0.1662,0.5579,5.37,1913,1686,88.13,1269387.6799999985,97.39,C,3.3568,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_121,1381,1701.48,0.7219,1.3472,1.26,1913,1234,64.51,1271089.1599999985,97.52,C,1.8662,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_211,307,1667.02,0.1605,0.5601,5.49,1913,1714,89.6,1272756.1799999985,97.65,C,3.4897,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_029,415,1661.61,0.2169,0.5474,4.03,1913,1596,83.43,1274417.7899999986,97.77,C,2.5237,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_122,829,1641.42,0.4334,1.2324,1.98,1913,1572,82.17,1276059.2099999986,97.9,C,2.8436,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_189,662,1550.07,0.3461,1.1317,2.37,1913,1556,81.34,1277609.2799999986,98.02,C,3.2699,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_008,446,1538.02,0.2331,0.6929,3.38,1913,1631,85.26,1279147.2999999986,98.14,C,2.9725,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_148,327,1492.76,0.1709,0.5727,4.73,1913,1705,89.13,1280640.0599999987,98.25,C,3.3511,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_179,409,1464.22,0.2138,0.9718,3.58,1913,1746,91.27,1282104.2799999986,98.36,C,4.5454,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_052,1476,1446.48,0.7716,1.3322,0.98,1913,1245,65.08,1283550.7599999986,98.47,C,1.7265,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_131,505,1438.9,0.264,0.8451,2.88,1913,1638,85.62,1284989.6599999985,98.59,C,3.2011,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_126,616,1410.62,0.322,0.8868,2.38,1913,1602,83.74,1286400.2799999986,98.69,C,2.754,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_149,1332,1305.36,0.6963,1.3665,0.98,1913,1313,68.64,1287705.6399999987,98.79,C,1.9625,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_118,1286,1260.28,0.6722,1.5062,0.98,1913,1444,75.48,1288965.9199999988,98.89,C,2.2407,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_157,266,1259.59,0.139,0.458,4.7,1913,1703,89.02,1290225.5099999988,98.99,C,3.295,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_089,364,1242.96,0.1903,0.5896,3.41,1913,1680,87.82,1291468.4699999988,99.08,C,3.0983,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_095,399,1183.6,0.2086,0.6966,3.02,1913,1679,87.77,1292652.069999999,99.17,C,3.3394,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_014,1133,1110.34,0.5923,1.2417,0.98,1913,1353,70.73,1293762.409999999,99.26,C,2.0964,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_164,196,1049.91,0.1025,0.4818,5.36,1913,1789,93.52,1294812.319999999,99.34,C,4.7005,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_159,219,1034.0,0.1145,0.4065,4.72,1913,1738,90.85,1295846.319999999,99.42,C,3.5502,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_070,1054,1032.92,0.551,1.3338,0.98,1913,1476,77.16,1296879.2399999988,99.5,C,2.4207,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_056,454,1016.96,0.2373,0.6669,2.24,1913,1628,85.1,1297896.1999999988,99.58,C,2.8104,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_060,594,997.92,0.3105,0.798,1.68,1913,1557,81.39,1298894.1199999987,99.65,C,2.57,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_057,436,993.32,0.2279,0.6215,2.35,1913,1619,84.63,1299887.4399999988,99.73,C,2.7271,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_077,281,869.6,0.1469,0.5009,3.06,1913,1715,89.65,1300757.0399999989,99.8,C,3.4098,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_084,106,576.46,0.0554,0.2765,5.43,1913,1827,95.5,1301333.4999999988,99.84,C,4.991,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_022,125,569.89,0.0653,0.29,4.6,1913,1806,94.41,1301903.3899999987,99.88,C,4.441,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_098,124,559.26,0.0648,0.3687,4.57,1913,1823,95.3,1302462.6499999987,99.93,C,5.6898,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_160,232,519.68,0.1213,0.4481,2.24,1913,1747,91.32,1302982.3299999987,99.97,C,3.6941,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock
+FOODS_1_079,82,446.16,0.0429,0.2652,5.44,1913,1854,96.92,1303428.4899999986,100.0,C,6.1818,Z,CZ,Make-to-Order / Rationalization Candidate | Zero/Near-Zero Safety Stock

@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.py.class
+*.env
+*.venv/
+env/
+
+# Raw large source datasets
+data/
+
+# Generated files
+*.log
+
+# IDE / tool files
+.vscode/
+.idea/
+.gemini/
